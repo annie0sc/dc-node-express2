@@ -1,0 +1,26 @@
+{
+  "name": "dc-node-express-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annie0sc/dc-node-express2.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "Annie Chandolu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annie0sc/dc-node-express2/issues"
+  },
+  "homepage": "https://github.com/annie0sc/dc-node-express2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
