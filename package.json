@@ -22,5 +22,6 @@
   "homepage": "https://github.com/annie0sc/dc-node-express2#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "engines": { "node": "15.x" }
 }
